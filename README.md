@@ -6,7 +6,7 @@ A web application developed to help students find and secure PG (Paying Guest) a
 
 **THE PG LIFE** is a user-friendly web application that assists students in finding PG accommodations by providing comprehensive listings, filtering options for desirable amenities, and secure access through user authentication.
 
-This project was developed in **July 2023** and focuses on delivering a streamlined experience to students seeking accommodation with features such as:
+it focuses on delivering a streamlined experience to students seeking accommodation with features such as:
 
 - **City-based Listings**: Users can browse through a vast list of available PGs in their preferred cities.
 - **Amenity Filters**: The app provides filtering options to search for PGs with desirable amenities such as Wi-Fi, meals, parking, and more.
