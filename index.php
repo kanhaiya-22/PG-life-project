@@ -21,8 +21,7 @@ session_start();
     ?>
 
     <div class="banner-container">
-        <h2 class="white pb-3">Happiness per Square Foot</h2>
-
+        <h2 style="font-family: 'Arial', sans-serif; color: white; text-align: center; font-size: 3rem; letter-spacing: 2px; text-transform: uppercase; padding: 20px 0; position: relative; background: linear-gradient(45deg, #ff7e5f, #feb47b); -webkit-background-clip: text; background-clip: text; animation: pulse 2s infinite;"> Happiness per Square Foot </h2>
         <form id="search-form" action="property_list.php" method="GET">
             <div class="input-group city-search">
                 <input type="text" class="form-control input-city" id='city' name='city' placeholder="Enter your city to search for PGs" />
