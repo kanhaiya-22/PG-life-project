@@ -24,10 +24,10 @@ it focuses on delivering a streamlined experience to students seeking accommodat
 
 This web application was built using the following technologies:
 
-- **PHP**: 36.7% - Backend logic and session management.
-- **HTML**: 33.6% - Structured the web pages.
-- **CSS**: 16.4% - Styled the web pages for an aesthetic user interface.
-- **JavaScript**: 6.3% - Handled front-end interactions and enhanced the user experience.
+- **PHP**: 35% - Backend logic and session management.
+- **HTML**: 35% - Structured the web pages.
+- **CSS**: 15% - Styled the web pages for an aesthetic user interface.
+- **JavaScript**: 5-6 % - Handled front-end interactions and enhanced the user experience.
 - **DBMS**: Managed data storage for user profiles, PG listings, and amenities.
 - **React**: Used for interactive UI components.
 
